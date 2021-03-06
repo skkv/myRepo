@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: echo Hello, worlddds!
+- script: echo Hello, worldddss!
   displayName: 'Run a one-line script'
 - task: Docker@2
   inputs:
